@@ -9,5 +9,7 @@ dependencies:
     - scikit-learn
     - matplotlib
     - pandas
-    - tensorflow-gpu
+    - tensorflow
     - nltk
+    - keras
+    - pillow
