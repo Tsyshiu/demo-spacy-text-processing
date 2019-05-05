@@ -1,15 +1,15 @@
-name: python 3.6
+name: python 3.7
+channels:
+  - conda-forge
 dependencies:
-  - python=3.6
-  - pip:
-    - spacy
-    - ipykernel
-    - scipy
-    - numpy
-    - scikit-learn
-    - matplotlib
-    - pandas
-    - tensorflow
-    - nltk
-    - keras
-    - pillow
+  - python=3.7
+  - spacy
+  - scipy
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - tensorflow
+  - nltk
+  - pillow
+  
