@@ -10,5 +10,6 @@ dependencies:
   - tensorflow
   - nltk
   - pillow
-  - torch
+  - pytorch-cpu
+  - torchvision-cpu
   
